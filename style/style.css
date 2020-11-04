@@ -22,18 +22,6 @@
   transition: transform 0.5s linear;
 }
 
-.content:hover .tooltip {
-  display: block;
-}
-
-.tooltip {
-  padding: 20px 20px;
-  background-color: grey;
-  position: absolute;
-  z-index: 100;
-  display: none;
-}
-
 button {
   cursor: pointer;
   background-color: blue;
